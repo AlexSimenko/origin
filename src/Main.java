@@ -7,7 +7,7 @@ public class Main {
                 "President@Gmail.com", "+3805040540", 45, 200000);
         Employee employee2 = new Employee("Olexiy", "Reznikov", "Yurievich",54,2000);
     employee.setAge(20);
-    employee.setEmail("MyMail12@Gmail.com");
+    employee.setEmail("MyMail1223@Gmail.com");
     employee.setPosition("Security worker");
     employee.setPhoneNumber("3805565454");
     employee.setSalary(2000);
