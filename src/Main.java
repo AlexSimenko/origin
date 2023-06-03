@@ -26,6 +26,7 @@ sameName.printClassName();
 sameName1.printClassName();
 
         System.out.println("зміни в окремій гілці2");
+        System.out.println("Зміни в гілці Сіменко");
     }
 
 
