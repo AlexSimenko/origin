@@ -24,6 +24,8 @@ public class Main {
 
 sameName.printClassName();
 sameName1.printClassName();
+
+        System.out.println("зміни в окремій гілці");
     }
 
 
