@@ -25,7 +25,7 @@ public class Main {
 sameName.printClassName();
 sameName1.printClassName();
 
-        System.out.println("зміни в окремій гілці");
+        System.out.println("зміни в окремій гілці2");
     }
 
 
